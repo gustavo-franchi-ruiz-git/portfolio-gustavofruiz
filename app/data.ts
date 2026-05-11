@@ -12,24 +12,25 @@ export const experience = [
     company: "Siena Company",
     period: "Atual",
     summary:
-      "Desenvolvimento de sistemas para operações corporativas, com foco em regras de negócio, integrações, workflows e modernização de aplicações internas.",
+      "Atuação no desenvolvimento de sistemas corporativos, com foco em regras de negócio, integrações entre sistemas, automação de processos e evolução de aplicações internas.",
     highlights: [
-      "Implementação de workflows, formulários, relatórios dinâmicos e eventos na plataforma Fluig usando JavaScript, jQuery, APIs e bancos relacionais.",
-      "Desenvolvimento de integrações HTTP com sistemas externos, incluindo tratamento de dados e comunicação entre ambientes corporativos.",
-      "Atuação em WMS corporativo com Node.js, NestJS, Next.js, React, SQL Server e Docker.",
-      "Atuação em projeto CisPRO com C#/.NET, Oracle e React para sistema de bancada de testes de placas de computador e notebook.",
+      "Desenvolvimento de workflows, formulários, relatórios dinâmicos e eventos na plataforma Fluig, utilizando JavaScript, jQuery, APIs REST e bancos de dados relacionais.",
+      "Implementação de integrações HTTP com sistemas externos, incluindo validação, transformação e sincronização de dados entre ambientes corporativos.",
+      "Atuação no desenvolvimento de sistemas voltados à gestão e operação logística, utilizando Node.js, NestJS, Next.js, React, SQL Server e Docker.",
+      "Participação no desenvolvimento de aplicações corporativas com C#/.NET, Oracle e React, voltadas à operação e suporte de processos internos.",
     ],
   },
   {
     role: "Estagiário em Tecnologia",
     company: "MKData",
-    period: "Início na tecnologia",
+    period: "Estágio",
     summary:
-      "Primeira experiência profissional em tecnologia, trabalhando com dados, relatórios e consultas para necessidades de negócio.",
+      "Primeira experiência profissional na área de tecnologia, com atuação em consultas a banco de dados, relatórios e suporte a processos de negócio em sistemas ERP e rotinas da área da saúde.",
     highlights: [
-      "Criação de relatórios dinâmicos no FastReport.",
-      "Consultas SQL em bases Oracle e Firebird para extração e organização de dados.",
-      "Leitura de requisitos e tradução de informações operacionais em entregas técnicas.",
+      "Desenvolvimento de relatórios dinâmicos com FastReport.",
+      "Elaboração de consultas SQL em bases Oracle e Firebird para extração, análise e organização de dados.",
+      "Criação de queries utilizadas em processos relacionados à emissão de receitas médicas e rotinas de sistemas ERP.",
+      "Apoio na interpretação de requisitos e na tradução de demandas operacionais em entregas técnicas.",
     ],
   },
 ];
@@ -73,7 +74,7 @@ export const projects = [
 ];
 
 export const contactItems = [
-  { label: "Email", value: "email@exemplo.com", href: "mailto:email@exemplo.com" },
-  { label: "LinkedIn", value: "linkedin.com/in/seu-usuario", href: "#" },
-  { label: "GitHub", value: "github.com/seu-usuario", href: "#" },
+  { label: "Email", value: "contato@gustavofranchiruiz.com.br", href: "mailto:contato@gustavofranchiruiz.com.br" },
+  { label: "LinkedIn", value: "Gustavo Franchi Ruiz", href: "https://www.linkedin.com/in/gustavo-franchi-ruiz-20b3b31b9/" },
+  { label: "GitHub", value: "gustavo-franchi-ruiz-git", href: "https://github.com/gustavo-franchi-ruiz-git" },
 ];

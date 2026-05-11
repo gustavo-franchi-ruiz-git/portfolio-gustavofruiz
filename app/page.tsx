@@ -43,7 +43,7 @@ export default function Home() {
 
         <aside className="hero-contact" aria-label="Links de contato">
           {contactItems.map((item) => (
-            <a key={item.label} href={item.href}>
+            <a key={item.label} href={item.href} target={item.href.startsWith("mailto:") ? undefined : "_blank"} rel="noopener noreferrer">
               <span>{item.label}</span>
               <strong>{item.value}</strong>
             </a>
