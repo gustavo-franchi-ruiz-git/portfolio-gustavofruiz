@@ -77,7 +77,7 @@ export default function Home() {
         </div>
         <div className="prose">
           <p>
-            Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana e atuo com desenvolvimento de sistemas em projetos corporativos. Tenho como diferencial a capacidade de compreender processos, identificar necessidades do cliente e transformar essas demandas em soluções tecnológicas alinhadas ao negócio, atuando na construção de funcionalidades, integrações, workflows, relatórios e melhorias em sistemas utilizados por operações de grande porte.
+            Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC e atuo com desenvolvimento de sistemas em projetos corporativos. Tenho como diferencial a capacidade de compreender processos, identificar necessidades do cliente e transformar essas demandas em soluções tecnológicas alinhadas ao negócio, atuando na construção de funcionalidades, integrações, workflows, relatórios e melhorias em sistemas utilizados por operações de grande porte.
           </p>
         </div>
       </section>
