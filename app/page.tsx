@@ -77,15 +77,7 @@ export default function Home() {
         </div>
         <div className="prose">
           <p>
-            Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana e
-            atuo com desenvolvimento de sistemas em projetos corporativos. Trabalho
-            principalmente na construção de funcionalidades, integrações, workflows, relatórios e
-            melhorias em sistemas usados por operações de grande porte.
-          </p>
-          <p>
-            Antes da tecnologia, trabalhei na Gastronomia entre 2013 e 2018. A transição
-            para desenvolvimento aconteceu em 2019 e reforçou uma forma de trabalho
-            orientada a processo, prioridade, clareza de requisito e execução consistente.
+            Sou formado em Análise e Desenvolvimento de Sistemas pela FATEC Americana e atuo com desenvolvimento de sistemas em projetos corporativos. Tenho como diferencial a capacidade de compreender processos, identificar necessidades do cliente e transformar essas demandas em soluções tecnológicas alinhadas ao negócio, atuando na construção de funcionalidades, integrações, workflows, relatórios e melhorias em sistemas utilizados por operações de grande porte.
           </p>
         </div>
       </section>
